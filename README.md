@@ -20,7 +20,7 @@ This is a Simon game built using HTML, CSS, and JavaScript. The game will test y
 3. Open `index.html` in your favorite web browser to start playing the game.
 
 ## How to Play
-1. Press the start button to begin the game.
+1. Press the any button to begin the game.
 2. Watch the sequence of lights and listen to the sounds.
 3. Repeat the sequence by clicking the corresponding buttons.
 4. The game gets progressively harder as the sequence length increases.
